@@ -1,6 +1,6 @@
 # SIAKAD — Sistem Informasi Akademik Sederhana
 
-> Tugas Besar Mata Kuliah Web II (IF53413)  
+> Tugas Besar Mata Kuliah Web II   
 > **Nama:** M. Lintang Sedayu Arif  
 > **NPM:** 5520124015  
 > **Kelas:** IF-A  
@@ -75,7 +75,7 @@ php artisan serve
 | Role | Email | Password |
 |------|-------|----------|
 | Admin | admin@siakad.com | password |
-| Mahasiswa | 5520124001@mhs.com | password |
+| Mahasiswa | arif@siakad.com | password |
 
 ---
 
