@@ -1,5 +1,10 @@
 # SIAKAD — Sistem Informasi Akademik Sederhana
 
+LINK HOSTING
+https://lintang.ifalgorithm24.web.id/
+
+
+
 > Tugas Besar Mata Kuliah Web II   
 > **Nama:** M. Lintang Sedayu Arif  
 > **NPM:** 5520124015  
